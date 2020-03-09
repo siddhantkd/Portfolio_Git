@@ -1,0 +1,48 @@
+/*.navbar-brand{
+  color: white;
+  font-family: 'Iceland', cursive;
+  letter-spacing: 5px;
+  font-size: 40px !important;
+  position: relative;
+  z-index: -1;
+}
+.navbar-brand:hover{
+  color: black
+}
+.smooth-menu{
+  color: white;
+  font-family: 'Iceland', cursive;
+  letter-spacing: 5px;
+  font-size: 20px !important;
+}
+*/
+
+.navbar-brand{
+  color: black !important;
+  font-family: 'Iceland', cursive;
+  letter-spacing: 5px;
+  font-size: 40px !important;
+}
+.navbar-nav{
+  color: black !important;
+  font-family: 'Iceland', cursive;
+  letter-spacing: 5px;
+  font-size: 20px !important;
+}
+.para{
+  font-size: 18.5px;
+  text-align: justify;
+}
+
+.img-fluid{
+  height: 450px !important;
+  width: 100;
+}
+#foot{
+  background-color: #1faef0 !important;
+}
+#footera{
+  text-decoration: none;
+  color: white;
+}
+/* THE FRONT FACE OF THE CARD, WHICH SHOWS BY DEFAULT */

@@ -1,0 +1,30 @@
+.navbar-brand{
+  color: black !important;
+  font-family: 'Iceland', cursive;
+  letter-spacing: 5px;
+  font-size: 40px !important;
+}
+.navbar-nav{
+  color: black !important;
+  font-family: 'Iceland', cursive;
+  letter-spacing: 5px;
+  font-size: 20px !important;
+}
+.colimg{
+  margin: 20px 20px 20px 20px;
+  padding: 10px 10px 10px 10px;
+  height: 300px !important;
+  width: 300px !important;
+  border-radius: 30%;
+}
+.para{
+  font-size: 14.5px;
+  text-align: justify;
+}
+#foot{
+  background-color: #1faef0 !important;
+}
+#footera{
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,104 @@
+#particles-js{
+  background: firebrick;
+  position: fixed;
+  z-index: -1;
+  left: 0;
+  top: 0;
+  width:100%;
+  height: 100%;
+}
+.navbar-brand{
+  color: white;
+  font-family: 'Iceland', cursive;
+  letter-spacing: 5px;
+  font-size: 40px !important;
+}
+.navbar-brand:hover{
+  color: black
+}
+.smooth-menu{
+  color: white;
+  font-family: 'Iceland', cursive;
+  letter-spacing: 5px;
+  font-size: 20px !important;
+}
+.banner-area h2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family: Poppins;
+  color: white;
+  font-size: 40px;
+}
+
+
+.type{
+
+
+  letter-spacing: 5px;
+  font-size: 50px ;
+}
+
+.bounceDown{
+  font-size: 15px;
+  text-align: center;
+  position: absolute;
+  top: 90%;
+  left: 90%;
+  animation: bounce 2s infinite;
+}
+@keyframes bounce {
+  0%{
+    transform: translateX(0px);
+  }
+  15%{
+    transform: translateX(-50px);
+  }
+  50%{
+    transform: translateX(0px);
+  }
+  70%{
+    transform: translateX(0px);
+  }
+  100%{
+    transform: translateX(0px);
+  }
+}
+#bounce{
+  color: white;
+  text-decoration: none;
+}
+#bounce:hover{
+  color: black;
+
+}
+/* Start About Area */
+
+.site-main .about-area{
+    padding: 8rem 5rem;
+}
+
+.site-main .about-area .about-title h2 > span{
+    display: block;
+    font: normal bold 49px/ 60px var(--roboto);
+    letter-spacing: 21px;
+}
+
+.site-main .about-area .about-title .paragraph > p{
+    padding: .4rem 0;
+}
+
+#foot{
+  background-color: #1faef0 !important;
+}
+#footera{
+  text-decoration: none;
+  color: white;
+}
+
+/* End About Area */
